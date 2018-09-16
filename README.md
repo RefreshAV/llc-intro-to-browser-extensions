@@ -8,11 +8,11 @@ A full day introductory workshop where learners build their own Chrome Extension
 
 ## Quick Links
 
-Instructor Notes: <a href="https://ladieslearningcode.github.io/llc-intro-to-browser-extensions/notes-en.html">ladieslearningcode.github.io/llc-intro-to-browser-extensions/notes-en.html</a>
+Instructor Notes: <a href="https://rawgit.com/RefreshAV/llc-intro-to-browser-extensions/master/notes-en.html">rawgit.com/RefreshAV/llc-intro-to-browser-extensions/master/notes-en.html</a>
 
-Preview Slides: <a href="https://ladieslearningcode.github.io/llc-intro-to-browser-extensions/slides-en.html">ladieslearningcode.github.io/llc-intro-to-browser-extensions/slides-en.html</a>
+Preview Slides: <a href="https://rawgit.com/RefreshAV/llc-intro-to-browser-extensions/master/index.html">rawgit.com/RefreshAV/llc-intro-to-browser-extensions/master/index.html</a>
 
-Mentor Huddle: (Instructor to facilitate the morning of) <a href="https://ladieslearningcode.github.io/llc-intro-to-browser-extensions/mentor-huddle-en.txt">ladieslearningcode.github.io/llc-intro-to-browser-extensions/mentor-huddle-en.txt</a>
+Mentor Huddle: (Instructor to facilitate the morning of) <a href="https://rawgit.com/RefreshAV/llc-intro-to-browser-extensions/master/mentor-huddle-en.txt">rawgit.com/RefreshAV/llc-intro-to-browser-extensions/master/mentor-huddle-en.txt</a>
 
 ## Description
 
